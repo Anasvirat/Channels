@@ -2,5 +2,5 @@
   "build": {
     "dockerfilePath": "Dockerfile"
   },
-  "startCommand": "php /app/m3u8.php"
+  "startCommand": "php /var/www/html/m3u8.php"
 }
